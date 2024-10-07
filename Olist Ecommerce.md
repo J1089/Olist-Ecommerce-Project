@@ -1,1 +1,0 @@
-[Olist eCommerce Drive](https://drive.google.com/drive/u/1/folders/1SN7gVIBWpI0Hu4GBcB8uSz-Pw3xzpSvK)
