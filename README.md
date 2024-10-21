@@ -1,5 +1,3 @@
-
-
 # Olist E-Commerce Project
 
 ## Project Overview
@@ -15,23 +13,23 @@ This project aims to analyze key performance indicators (KPIs) related to the Ol
 ## Key Performance Indicators (KPIs)
 
 ### 1. **Weekday Vs Weekend Payment Statistics**
-   - **Description**: Analyze the payment patterns based on the `order_purchase_timestamp`. This metric compares orders placed on weekdays versus weekends to identify trends in customer purchase behavior.
+   - **Description**: Analyzed the payment patterns based on the `order_purchase_timestamp`. This metric compares orders placed on weekdays versus weekends to identify trends in customer purchase behavior.
    - **Data Column**: `order_purchase_timestamp`
 
 ### 2. **Number of Orders with Review Score 5 and Payment Type as Credit Card**
-   - **Description**: Filter orders with the highest review score of 5, and where the payment type is 'credit card'.
+   - **Description**: Filtered orders with the highest review score of 5, and where the payment type is 'credit card'.
    - **Data Columns**: `review_score`, `payment_type`
 
 ### 3. **Average Number of Days for Order Delivery for Pet Shop Category**
-   - **Description**: Calculate the average time taken to deliver orders in the `pet_shop` category by analyzing the difference between `order_delivered_customer_date` and `order_purchase_timestamp`.
+   - **Description**: Calculated the average time taken to deliver orders in the `pet_shop` category by analyzing the difference between `order_delivered_customer_date` and `order_purchase_timestamp`.
    - **Data Columns**: `order_delivered_customer_date`, `order_purchase_timestamp`
 
 ### 4. **Average Price and Payment Values from Customers of São Paulo City**
-   - **Description**: Compute the average product price and total payment values for customers located in São Paulo.
+   - **Description**: Computed the average product price and total payment values for customers located in São Paulo.
    - **Data Columns**: `price`, `payment_value`, `customer_city`
 
 ### 5. **Relationship Between Shipping Days and Review Scores**
-   - **Description**: Analyze the relationship between shipping days (`order_delivered_customer_date` - `order_purchase_timestamp`) and the review scores provided by customers.
+   - **Description**: Analyzed the relationship between shipping days (`order_delivered_customer_date` - `order_purchase_timestamp`) and the review scores provided by customers.
    - **Data Columns**: `order_delivered_customer_date`, `order_purchase_timestamp`, `review_score`
 ---
 
