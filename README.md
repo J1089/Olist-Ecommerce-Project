@@ -9,6 +9,9 @@ This project aims to analyze key performance indicators (KPIs) related to the Ol
 ---
 ## Google Drive 
 [Olist eCommerce Drive](https://drive.google.com/drive/u/1/folders/1SN7gVIBWpI0Hu4GBcB8uSz-Pw3xzpSvK)
+
+## Live Interactive Dashboard
+[Olist eCommerce Live](https://app.powerbi.com/view?r=eyJrIjoiM2FkYTEwN2ItNzVhNC00ZGU0LWJhYzItYTY5MTU0MDRiMDliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Key Performance Indicators (KPIs)
 
 ### 1. **Weekday Vs Weekend Payment Statistics**
